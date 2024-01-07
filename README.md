@@ -18,7 +18,7 @@ This is a simple Android application demonstrating the use of SharedPreferences 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/SharedPreferenceApp.git
+   git clone https://github.com/divye14/SharedPreferenceApp.git
 
 
 Open the project in Android Studio.
