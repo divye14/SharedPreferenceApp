@@ -35,5 +35,9 @@ Build and run the app on an emulator or a physical device.
 # Libraries Used
 - Android Data Binding - Used to bind UI components.
 
+# Essential Links for Understanding
+- https://developer.android.com/training/data-storage/shared-preferences#kotlin
+- https://medium.com/@huseyinozkoc/android-shared-preferences-example-631592b0236a
+
 # Author
 Divyang Mehrotra
